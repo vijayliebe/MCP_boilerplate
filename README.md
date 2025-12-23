@@ -2,6 +2,8 @@
 
 A minimal Model Context Protocol (MCP) server implementation in Python for testing client-server communication.
 
+![MCP Server](img.png)
+
 ## What This Does
 
 This boilerplate provides the absolute minimum code needed to:
