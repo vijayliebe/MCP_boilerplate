@@ -1,0 +1,3 @@
+# No external dependencies required for basic boilerplate!
+# Python 3.9+ standard library is sufficient
+
